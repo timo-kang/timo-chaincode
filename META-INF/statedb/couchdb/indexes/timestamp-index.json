@@ -1,0 +1,7 @@
+{
+  "index": {
+      "fields": [{"timestamp":"desc"}]
+  },
+  "name" : "timestamp-index",
+  "type" : "json"
+}

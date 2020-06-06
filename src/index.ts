@@ -3,6 +3,8 @@
  */
 
 import { FabCar } from './fabcar';
+import { GoonoContract } from './goono-contract';
+export { GoonoContract } from './goono-contract';
 export { FabCar } from './fabcar';
 
-export const contracts: any[] = [ FabCar ];
+export const contracts: any[] = [FabCar, GoonoContract];

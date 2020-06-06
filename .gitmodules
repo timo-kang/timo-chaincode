@@ -1,0 +1,3 @@
+[submodule "src/goono-commons"]
+	path = src/goono-commons
+	url = https://github.com/redwit-dev/goono-commons.git
